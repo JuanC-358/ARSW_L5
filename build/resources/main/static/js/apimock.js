@@ -113,9 +113,10 @@ var apimock = (function () {
                 return blueprint.name == name
             });
             callback(null, blueprint)
+        },
+        getMockData: () => {
+            return mockdata;
         }
     }
 
 })();
-
-

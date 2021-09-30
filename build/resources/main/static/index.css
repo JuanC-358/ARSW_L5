@@ -1,0 +1,14 @@
+.canvas {
+    text-align: center;
+    border: 1px solid brown;
+    align-items: center;
+    background-color: grey;
+}
+body{
+    background-color: black;
+    color: white;
+}
+.input{
+    background-color: black;
+    color: white;
+}
